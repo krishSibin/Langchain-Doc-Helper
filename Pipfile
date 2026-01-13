@@ -5,6 +5,22 @@ name = "pypi"
 
 [packages]
 langchain = "*"
+langchain-tavily = "*"
+langchain-openai = "*"
+langchain-core = "*"
+langchain-classic = "*"
+black = "*"
+isort = "*"
+certifi = "*"
+google-genai = "*"
+langchain-pinecone = "*"
+langsmith = "*"
+langchain-community = "*"
+langchainhub = "*"
+langchain-chroma = "*"
+python-dotenv = "*"
+sentence-transformers = "*"
+torch = "*"
 
 [dev-packages]
 
